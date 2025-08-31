@@ -11,6 +11,7 @@ A continuación, se muestra la lista de la selección de 100 fabricantes/servici
 ## Cómo usar:
 
 1- Descargar el archivo HTML desde el repositorio al equipo local con la siguiente línea:
+
 git clone https://github.com/MAyusoEH/Buscador-Credenciales-Default-Fabricantes-Servicios.git
 
 2- Ejecutar el archivo default_creds.html con el navegador.
@@ -23,4 +24,4 @@ LEste proyecto está licenciado bajo la Licencia Creative Commons Atribución 4.
 
 Puedes usar, modificar y distribuir este código de manera libre, pero en caso de usarlo en entornos comerciales, profesionales o estudios, por favor asegúrate de citar adecuadamente a la autoría original, proporcionando un enlace a este repositorio y mencionando que es tu referencia.
 
-Créditos: Este código fue desarrollado por [MAyusoEH].
+Créditos: Este código fue desarrollado por MAyusoEH.
