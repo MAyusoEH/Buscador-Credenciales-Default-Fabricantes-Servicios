@@ -1,5 +1,5 @@
 ## Vista Previa de la Herramienta HTML:
-![Captura de pantalla del proyecto](https://raw.githubusercontent.com/MAyusoEH/Buscador-Credenciales-Default-Fabricantes-Servicios/refs/heads/main/pic_defcreds.png)
+![Captura de pantalla del proyecto](https://raw.githubusercontent.com/MAyusoEH/Buscador-Credenciales-Default-Fabricantes-Servicios/refs/heads/main/pic_defcreds2.png)
 
 
 ## Lista de fabricantes/servicios:
