@@ -14,7 +14,7 @@ A continuación, se muestra la lista de la selección de 100 fabricantes/servici
 
 ``git clone https://github.com/MAyusoEH/Buscador-Credenciales-Default-Fabricantes-Servicios.git``
 
-2- Ejecutar el archivo default_creds.html con el navegador.
+2- Ejecutar el archivo "default_creds.html" con el navegador.
 
 
 ## Licencia:
