@@ -10,7 +10,7 @@ A continuación, se muestra la lista de la selección de 100 fabricantes/servici
 
 ## Cómo usar:
 
-1- Descargar el archivo HTML desde el repositorio al equipo local con la siguiente línea:
+1- Descargar el repositorio al equipo local con la siguiente línea:
 
 ``git clone https://github.com/MAyusoEH/Buscador-Credenciales-Default-Fabricantes-Servicios.git``
 
