@@ -24,4 +24,4 @@ Este proyecto está licenciado bajo la Licencia Creative Commons Atribución 4.0
 
 Puedes usar, modificar y distribuir este código de manera libre, pero en caso de usarlo en entornos comerciales, profesionales o estudios, por favor asegúrate de citar adecuadamente a la autoría original, proporcionando un enlace a este repositorio y mencionando que es tu referencia.
 
-"Créditos": Este código fue desarrollado por [MAyusoEH](https://github.com/MAyusoEH).
+''Créditos'': Este código fue desarrollado por [MAyusoEH](https://github.com/MAyusoEH).
